@@ -1,3 +1,39 @@
-.background{
-  
+body{
+height: 100%;
+width:100%;
+background-color: purple;
+}
+h1{
+  text-align: center;
+  color: white;
+}
+.imagebox1{
+  display: flex;
+
+}
+.imagebox2{
+  display: flex;
+  position: relative;
+  left: 380px;
+}
+.img5{
+  margin-right: 15px
+}
+.img6{
+  margin-left:  15px
+}
+.img1{
+  margin-left:  15px
+
+}
+.img2{
+  margin-left: 30px
+}
+.img3{
+  margin-left: 30px;
+  margin-right: 30px;
+
+}
+.img4{
+  margin-right: 30px
 }
